@@ -1,7 +1,7 @@
-<!-- Banner -->
+<!-- Banner 
 <p align="center">
   <img src="https://github.com/yourusername/yourusername/blob/main/banner.png" alt="Shreyas Nayak Banner" width="100%">
-</p>
+</p>-->
 
 <h1 align="center">Hi 👋, I'm Shreyas Nayak</h1>
 <h3 align="center">AI & Machine Learning Engineer | Python Developer | Data Enthusiast</h3>
@@ -73,6 +73,10 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=shreyasnayak7&show_icons=true&theme=tokyonight" alt="GitHub stats"/>
-  [![GitHub Streak](https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&theme=dark&mode=daily&border_radius=6)](https://git.io/streak-stats)
+</p>
 
+<p align="center">
+  <a href="https://git.io/streak-stats">
+    <img src="https://streak-stats.demolab.com?user=shreyasnayak7&theme=tokyonight&mode=daily&border_radius=6" alt="GitHub Streak"/>
+  </a>
 </p>
