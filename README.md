@@ -6,6 +6,11 @@
 <h1 align="center">Hi 👋, I'm Shreyas Nayak</h1>
 <h3 align="center">AI & Machine Learning Engineer | Python Developer | Data Enthusiast</h3>
 
+<p align="center">
+  <!-- Visitors Count -->
+  <img src="https://komarev.com/ghpvc/?username=shreyasnayak7&label=Visitors&color=0e75b6&style=flat" alt="visitors"/>
+</p>
+
 ---
 
 ## 🚀 About Me
@@ -14,6 +19,14 @@
 - 🌱 Currently learning **Deep Learning & AWS Cloud Services**  
 - 🚀 Completed **AI-ML Virtual Internship** with *EduSkills Foundation (AWS Academy Curriculum)*  
 - ⚡ Loves building **data-driven solutions** to solve real-world problems  
+
+---
+
+## 📌 Current Project
+### 🔹 [Digital Twin-Based 3D Simulation for Emergency Response and Beach Safety](https://github.com/yourusername/digital-twin-simulation)
+- Building a **real-time 3D simulation** using digital twin technology.  
+- Designed to improve **emergency response** efficiency and **beach safety monitoring**.  
+- Leveraging **Unity, IoT sensors, and Machine Learning models**.
 
 ---
 
