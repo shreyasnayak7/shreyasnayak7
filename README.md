@@ -8,7 +8,7 @@
 
 <p align="center">
   <!-- Visitors Count -->
-  <img src="https://komarev.com/ghpvc/?username=shreyasnayak7&label=Visitors&color=0e75b6&style=flat" alt="visitors"/>
+  <img src="https://komarev.com/ghpvc/?username=shreyasnayak7&label=Visitors&color=0e75b6&style=flat" alt="Visitors"/>
 </p>
 
 ---
