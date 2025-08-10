@@ -53,7 +53,7 @@
   <a href="mailto:shreyasnayak78@gmail.com"><img src="https://img.icons8.com/fluency/48/000000/gmail-new.png"/></a>
   <a href="https://linkedin.com/in/shreyas-nayak78"><img src="https://img.icons8.com/fluency/48/000000/linkedin.png"/></a>
   <a href="https://github.com/shreyasnayak7"><img src="https://img.icons8.com/fluency/48/000000/github.png"/></a>
-  <a href="https://shreyasnayakportfolio.com"><img src="https://img.icons8.com/fluency/48/000000/domain.png"/></a>
+  <a href="https://your-story-studio.vercel.app/"><img src="https://img.icons8.com/fluency/48/000000/domain.png"/></a>
 </p>
 
 ---
