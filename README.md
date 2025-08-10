@@ -73,4 +73,6 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=shreyasnayak7&show_icons=true&theme=tokyonight" alt="GitHub stats"/>
+  [![GitHub Streak](https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&theme=dark&mode=daily&border_radius=6)](https://git.io/streak-stats)
+
 </p>
